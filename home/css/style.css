@@ -814,7 +814,7 @@ body {
 		padding: 0 75px 0 75px;
 	}
 	.cont-block-3 {
-	padding: 50px 200px;
+		padding: 50px 200px;
 	}
 }
 @media screen and (max-width: 1023px) {
@@ -832,7 +832,7 @@ body {
 		padding: 0;
 	}
 	.cont-block-3 {
-		padding: 0 10px 30px 10px;
+		padding: 30px 10px 30px 10px;
 	}
 	.header-video {
 		width: 100%;
