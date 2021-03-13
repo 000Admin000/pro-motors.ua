@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: http://s346098.smrtp.ru/
